@@ -1,74 +1,38 @@
 [
     {
         "roles": [
-            ["Shapeshifter", "Werewolf"],
             "Werewolf",
-            ["Seer", "Harlot"],
-            ["Harlot", "Protector"],
-            ["Gravedigger", "Stalker"],
-            ["InsaneSeer", "Villager"],
-            "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+            "Werewolf",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger"
         ]
     },
     {
         "roles": [
-            ["Shapeshifter", "Werewolf"],
             "Werewolf",
+            "Werewolf",
+            "Seer",
             "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager"
+        ]
+    },
+    {
+        "roles": [
+            "Werewolf",
+            "Werewolf",
             "Seer",
             "Protector",
-            "ParanoidSeer",
-            "NaiveSeer",
-            "InsaneSeer"
-        ]
-    },
-    {
-        "roles": [
-            "Omegawolf",
-            "Seer",
-            "MapleWolf",
-            ["Protector", "Protector", "Harlot"],
-            "Stalker",
             "Lycan",
-            "Sleepwalker",
-            "Sleepwalker"
+            "Lycan",
+            "Villager",
+            "Villager"
         ]
-    },
-    {
-        "roles": [
-            ["Shapeshifter", "Werewolf"],
-            "Werewolf",
-            "Seer",
-            "Protector",
-            "Villager",
-            "Villager",
-            "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ]
-    },
-    {
-        "roles": [
-            "Shapeshifter",
-            "Stalker",
-            "Protector",
-            "Succubus",
-            "Villager",
-            "Villager",
-            "EssenceThief",
-            "Tanner"
-        ]
-     },
-     {
-        "roles": [
-            "Shapeshifter",
-            "Bloodletter",
-            "Seer",
-            "InsaneSeer",
-            "Sleepwalker",
-            "Sleepwalker",
-            "Insomniac",
-            "Insomniac"
-        ]
-     }
+    }
 ]

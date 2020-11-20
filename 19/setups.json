@@ -1,6 +1,7 @@
 [
     {
         "roles": [
+            "Alphawolf",
             "Werewolf",
             "Werewolf",
             "Werewolf",
@@ -8,6 +9,7 @@
             "Protector",
             "Seer",
             "Gravedigger",
+            "Elder",
             "Villager",
             "Villager",
             "Villager",
@@ -15,6 +17,8 @@
             "Villager",
             "Villager",
             "Villager",
+            "Villager",
+            "Lycan",
             "Lycan"
         ]
     }

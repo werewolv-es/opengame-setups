@@ -1,20 +1,20 @@
 [
     {
         "roles": [
-            ["Shapeshifter", "Werewolf"],
-            ["Werewolf", "Werewolf"],
-            ["Werewolf", "Werewolf"],
+            "Alphawolf",
+            "Werewolf",
+            "Werewolf",
+            "Protector",
             "Seer",
-            "Beholder",
             "Gravedigger",
-            "MapleWolf",
-            "Tanner",
-            "Stalker",
             "Villager",
             "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager"],
-            "InsaneSeer",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "MapleWolf"]
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Lycan",
+            "Lycan"
         ]
-     }
+    }
 ]

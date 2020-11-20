@@ -1,86 +1,30 @@
 [
-	{
+    {
         "roles": [
-            ["Shapeshifter", "Werewolf"],
-            ["Werewolf", "Werewolf"],
+            "Werewolf",
+            "Werewolf",
             "Seer",
-            "Protector",
-            "Stalker",
-            "Stalker",
-            "Insomniac",
             "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Lycan",
             "Lycan"
         ]
     },
     {
         "roles": [
-            ["Shapeshifter", "Werewolf"],
-            ["Werewolf", "Werewolf"],
-            "Seer",
-            "Harlot",
-            "Gravedigger",
-            "Stalker",
-            "Villager",
-            "Villager",
-            "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ]
-    },
-    {
-        "roles": [
-            ["Shapeshifter", "Werewolf"],
-            ["Werewolf", "Werewolf"],
-            "Seer",
-            "Harlot",
-            "Gravedigger",
-            "MapleWolf",
-            "Stalker",
-            "Villager",
-            "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ]
-    },
-    {
-        "roles": [
-            ["Shapeshifter", "Werewolf"],
-            ["Werewolf", "Werewolf"],
-            "Stalker",
             "Werewolf",
-            "Seer",
-            "Protector",
-            "Harlot",
-            "Villager",
-            "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ]
-    },
-    {
-        "roles": [
-            ["Shapeshifter", "Werewolf"],
-            ["Werewolf", "Werewolf"],
-            "Harlot",
+            "Werewolf",
+            "Werewolf",
             "Gravedigger",
-            "Stalker",
-            "Stalker",
-            "Villager",
-            "Villager",
-            "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ]
-    },
-    {
-        "roles": [
-            "Omegawolf",
-            "Direwolf",
-            "Seer",
-            "Protector",
-            "Zealot",
-            "Lycan",
-            "Lycan",
-            "Sleepwalker",
-            "Sleepwalker",
-            "Sleepwalker"
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger"
         ]
     }
 ]

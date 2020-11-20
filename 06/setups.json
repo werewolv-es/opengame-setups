@@ -1,116 +1,12 @@
 [
     {
         "roles": [
-            "Harlot",
-            ["Villager", "Stalker"],
-            ["Villager", "Tanner"],
-            "Seer",
-            ["Villager", "Villager", "Villager", "Villager", "MapleWolf"],
-            "Shapeshifter"
-        ],
-        "bad": ["3219b9c4"]
-    },
-    {
-        "roles": [
-            "Omegawolf",
-            ["Protector", "Protector", "Protector", "Villager"],
-            "Stalker",
-            ["Villager", "Villager", "Villager", "Villager", "Insomniac"],
-            ["Villager", "Sleepwalker"],
-            "Sleepwalker"
-        ]
-    },
-    {
-    /* "disabled": true, */
-        "roles": [
-            "Shapeshifter",
-            "Seer",
-            ["ChaoticSeer", "Tanner"],
-            "InsaneSeer",
-            "NaiveSeer",
-            "ParanoidSeer"
-        ]
-    },
-    {
-        "roles": [
-            "Furie",
-            "Furie",
-            "Gravedigger",
-            "Gravedigger",
-            "Gravedigger",
-            "Protector"
-        ]
-    },
-    {
-        "roles": [
-            "Succubus",
-            "Succubus",
-            "MapleWolf",
-            "MapleWolf",
-            "Protector",
-            "Tanner"
-        ]
-    },
-    {
-        "roles": [
             "Villager",
             "Villager",
             "Villager",
-            "Protector",
-            "Shapeshifter",
-            "Tanner"
-        ]
-    },
-    {
-        "roles": [
             "Villager",
             "Villager",
-            "Villager",
-            "Sleepwalker",
-            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
-            {"role": "Tanner", "items": ["WolfPelt", "SjonRune"]}
-        ],
-        "items": [
-            "SjonRune",
-            "Crossbow",
-            "FjatRune",
-            "WolfPelt",
-            "WolfPelt"
-        ]
-    },
-    {
-        "roles": [
-            "Villager",
-            "Insomniac",
-            "NoviceSeer",
-            "Sleepwalker",
-            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
-            {"role": "BloodSeer", "items": ["PoisonedDarts"]}
-        ],
-        "items": [
-            "SjonRune",
-            "Crossbow",
-            "FjatRune",
-            "WolfPelt",
-            "WolfPelt"
-        ]
-    },
-    {
-        "roles": [
-            "Villager",
-            "Insomniac",
-            "Thief",
-            "Sleepwalker",
-            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
-            {"role": "BloodSeer", "items": ["PoisonedDarts"]}
-        ],
-        "items": [
-            "SjonRune",
-            "Crossbow",
-            "FjatRune",
-            "WolfPelt",
-            "WolfPelt",
-            "PotionOfAcquiescence"
+            "Werewolf"
         ]
     }
 ]

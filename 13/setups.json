@@ -1,36 +1,19 @@
 [
     {
         "roles": [
-            ["Shapeshifter", "Werewolf"],
-            ["Werewolf", "Werewolf"],
-            "Seer",
-            "Harlot",
+            "Werewolf",
+            "Werewolf",
+            "Werewolf",
             "Protector",
-            "Stalker",
-            "Villager",
-            "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
-            ["Villager", "Villager", "Villager", "Villager", "ChaoticSeer"],
-            ["Villager", "InsaneSeer"],
-            "NaiveSeer",
-            "ParanoidSeer"
-        ]
-    },
-    {
-        "roles": [
-            ["Shapeshifter", "Werewolf"],
-            ["Werewolf", "Werewolf"],
-            ["Werewolf", "Werewolf"],
             "Seer",
-            "Gravedigger",
-            "MapleWolf",
-            "Tanner",
-            "Stalker",
             "Villager",
             "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
-            "InsaneSeer",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "MapleWolf"]
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Lycan"
         ]
     }
 ]

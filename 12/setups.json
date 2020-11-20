@@ -1,34 +1,34 @@
 [
     {
         "roles": [
-            "Omegawolf",
-            "Direwolf",
-            "Seer",
-            "Protector",
-            "Stalker",
-            "Villager",
-            "Villager",
-            "Villager",
-            ["Tanner", "Lycan", "Lycan", "Lycan", "Lycan"],
-            "Sleepwalker",
-            "Sleepwalker",
-            "Sleepwalker"
+            "Werewolf",
+            "Werewolf",
+            "Werewolf",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger",
+            "Gravedigger"
         ]
     },
     {
         "roles": [
-            "Shapeshifter",
             "Werewolf",
             "Werewolf",
-            "Harlot",
-            "Gravedigger",
-            "Seer",
+            "Werewolf",
             "Protector",
-            "MapleWolf",
-            "Stalker",
+            "Seer",
             "Villager",
             "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager"
         ]
     }
 ]
