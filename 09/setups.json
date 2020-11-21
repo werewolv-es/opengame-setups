@@ -1,5 +1,6 @@
 [
     {
+        "theme": "None",
         "roles": [
             "Werewolf",
             "Direwolf",
@@ -13,6 +14,7 @@
         ]
     },
     {
+        "theme": "None",
         "roles": [
             "Werewolf",
             "Werewolf",
